@@ -36,3 +36,10 @@ Now we can move forward.
 ```
 a = torch.ones(5,5)
 ```
+
+Some random ideas, what kind of cyber attacks exist for neural networks
+since models are just math functions we should be able to reverse engineer them?
+
+and what does that mean? what leverage/purpose does it serve to do that?
+
+I imgaine it's not perfect since weights start random
